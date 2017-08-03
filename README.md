@@ -1,0 +1,2 @@
+# safe
+menyimpan file
